@@ -12,3 +12,11 @@ Doldurulacak
 - TfidfVectorizer
 - simplemma
 - nltk
+# Veri Setinin Oluşturulması
+Veri seti dunyahalleri.com 'dan requests ve BeautifulSoup kütüphaneleri kullanılarak oluşturulmuştur.
+buraya resim konacak
+
+
+## Modelin Eğitilmesi
+# Metinlerin Temizlenmesi
+# Modelin 
