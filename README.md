@@ -36,5 +36,14 @@ Veri seti dunyahalleri.com 'dan requests ve BeautifulSoup kütüphaneleri kullan
 - Puanlara göre cümlelerin sırasını belirleyip belirtilen cümle sayısına (cumle_sayisi) göre özet oluşturur.
 
 ## Sonuç
+(![image](https://github.com/Okan27k/NLP_project/assets/116784940/f3e3968f-d285-4d19-bf11-08e084272a90)
 
-![](![image](https://github.com/Okan27k/NLP_project/assets/116784940/f3e3968f-d285-4d19-bf11-08e084272a90)
+![](https://github.com/Okan27k/NLP_project/blob/main/jpgs/jpg6.jpg?raw=true)
+- Bu görselde kullanıcıdan haber indexi ve kaç cümlede özetleneceğinin girilmesi istenir ve altında da özetlenmiş bir örnek vardır.
+- Headline kısmını kullanıcın biraz olsun kıyaslama yapabilmesi için ekledim.
+- Üstteki iki görselde metin özetleri idare eder.
+![](https://github.com/Okan27k/NLP_project/blob/main/jpgs/jpg7.jpg?raw=true)
+- Bu görselde de başarısız bir özet görüyoruz.
+- TF-IDF ile özet yöntemi çok komplike bir yöntem olmadığı için çok başarılı bir özet çıkarmadı. Çünkü TF-IDF belirli bir belgedeki terimlerin önemini belirler bu da mantıklı bir özet çıkarmak için tek başına yeterli olmayabiliyor.
+- Abstractive metin özetleme yöntemleri gibi kendi bir yazı oluşturmuyor. Zaten var olan cümleleri önem sırasına göre yazdırıyor.
+
