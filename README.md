@@ -1,8 +1,8 @@
 # NLP_project
-# Projede Emeği Geçenler
+# Projeyi Yapanlar
 - Okan Kocabaşoğlu  213405043
 ## Haber Metinlerini Özetleme
-Doldurulacak
+- Bu proje TF-IDF vektorizer kullanarak haber metinlerini özetler.
 ## Kullanılan Kütüphaneler
 - BeautifulSoup
 - requests
