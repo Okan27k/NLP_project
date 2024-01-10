@@ -23,7 +23,6 @@ Veri seti dunyahalleri.com 'dan requests ve BeautifulSoup kütüphaneleri kullan
 - Bu görseldeki kodda web sitesinin html kodlarını inceleyerek elde ettiğim class bilgilerini kullanarak haber metinlerini çektim.
 
 
-## Modelin Eğitilmesi
 # Metinlerin Temizlenmesi
 
 ![](https://github.com/Okan27k/NLP_project/blob/main/jpgs/jpg3.jpg?raw=true)
