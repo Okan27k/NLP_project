@@ -35,7 +35,7 @@ Veri seti dunyahalleri.com 'dan requests ve BeautifulSoup kütüphaneleri kullan
 - Puanlara göre cümlelerin sırasını belirleyip belirtilen cümle sayısına (cumle_sayisi) göre özet oluşturur.
 
 ## Sonuç
-(![image](https://github.com/Okan27k/NLP_project/assets/116784940/f3e3968f-d285-4d19-bf11-08e084272a90)
+![image](https://github.com/Okan27k/NLP_project/assets/116784940/f3e3968f-d285-4d19-bf11-08e084272a90)
 
 ![](https://github.com/Okan27k/NLP_project/blob/main/jpgs/jpg6.jpg?raw=true)
 - Bu görselde kullanıcıdan haber indexi ve kaç cümlede özetleneceğinin girilmesi istenir ve altında da özetlenmiş bir örnek vardır.
